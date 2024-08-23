@@ -412,7 +412,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>ogresearchtest:latest</image>
+                            <image>mvyc315/ogresearchtest:latest</image>
                         </to>
                         <container>
                             <entrypoint>
